@@ -1,0 +1,15 @@
+body{
+  font-family: Comic Sans MS;
+  background-color: black;
+  color: blue;
+  text-shadow: 2px 2px 3px white;
+  font-size: 25px;
+  padding: 25px;
+}
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+/*Зроби цей сайт красивим 😉*/
